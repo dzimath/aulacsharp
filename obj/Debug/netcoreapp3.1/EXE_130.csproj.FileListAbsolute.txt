@@ -1,0 +1,14 @@
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\bin\Debug\netcoreapp3.1\EXE_130.exe
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\bin\Debug\netcoreapp3.1\EXE_130.deps.json
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\bin\Debug\netcoreapp3.1\EXE_130.runtimeconfig.json
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\bin\Debug\netcoreapp3.1\EXE_130.runtimeconfig.dev.json
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\bin\Debug\netcoreapp3.1\EXE_130.dll
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\bin\Debug\netcoreapp3.1\EXE_130.pdb
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\obj\Debug\netcoreapp3.1\EXE_130.csproj.AssemblyReference.cache
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\obj\Debug\netcoreapp3.1\EXE_130.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\obj\Debug\netcoreapp3.1\EXE_130.AssemblyInfoInputs.cache
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\obj\Debug\netcoreapp3.1\EXE_130.AssemblyInfo.cs
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\obj\Debug\netcoreapp3.1\EXE_130.csproj.CoreCompileInputs.cache
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\obj\Debug\netcoreapp3.1\EXE_130.dll
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\obj\Debug\netcoreapp3.1\EXE_130.pdb
+C:\temp\ws_vs2022\SECAO09_ENUMERADORESeCOMPOSICAO\EXE_130\EXE_130\obj\Debug\netcoreapp3.1\EXE_130.genruntimeconfig.cache
