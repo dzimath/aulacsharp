@@ -1,5 +1,4 @@
 ﻿
-
 namespace EXE_130.Entities
 {
     internal class Department

@@ -49,7 +49,7 @@ namespace EXE_130
             int year = int.Parse(monthAndyear.Substring(3));
             Console.WriteLine ("Name: " + worker.Name);
             Console.WriteLine("Department: " + worker.Department.Name);
-            Console.WriteLine("Income for " +monthAndyear + ":" + worker.Income(year, month));
+            Console.WriteLine("Income for " +monthAndyear + ": " + worker.Income(year, month).ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
